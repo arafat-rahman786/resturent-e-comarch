@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "name": "Bryar Mejia",
+      "price": "390",
+      "ratting": "4",
+      "image": "Chicken_Cheese_Pizza.jpg",
+      "catagory": "kebab",
+      "id": "BQiQt0wRyLU"
+    },
+    {
+      "name": "Genevieve Powers",
+      "ratting": "4",
+      "price": "700",
+      "image": "Pasta.jpg",
+      "catagory": "Burger",
+      "id": "FUXGGANE5FI"
+    },
+    {
+      "name": "Wyatt Davenport",
+      "price": "689",
+      "ratting": "5",
+      "image": "Chicken_Cheese_Pizza.jpg",
+      "catagory": "drinks",
+      "id": "tnEQNrI8Meo"
+    },
+    {
+      "name": "Kennedy Emerson",
+      "price": "918",
+      "ratting": "4",
+      "image": "Seekh_Kebab.jpg",
+      "catagory": "pizza",
+      "id": "poUerEHGLEE"
+    },
+    {
+      "name": "Karina Rivas",
+      "price": "224",
+      "ratting": "2",
+      "image": "Fry_Nurger.jpg",
+      "catagory": "pasta",
+      "id": "kO9kJjVk5p4"
+    }
+  ],
+  "carts": [
+    {
+      "name": "Lacota Wall",
+      "price": "312",
+      "ratting": "3",
+      "image": "Chicken_Cheese_Pizza.jpg",
+      "id": "lopKOHBQ4gU"
+    },
+    {
+      "name": "Wyatt Davenport",
+      "price": "689",
+      "ratting": "5",
+      "image": "Chicken_Cheese_Pizza.jpg",
+      "catagory": "drinks",
+      "id": "DpxiQWeYCp4"
+    },
+    {
+      "name": "Karina Rivas",
+      "price": "224",
+      "ratting": "2",
+      "image": "Fry_Nurger.jpg",
+      "catagory": "pasta",
+      "id": "0IMyiErReK8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
